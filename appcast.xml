@@ -69,5 +69,13 @@
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.0.12/WhisperBar-1.0.12.dmg" length="136925057" type="application/octet-stream" sparkle:edSignature="aNzOR6F+pKP3L2fQ/dvAfIjS/SZIoSVIaAsq3z/ijAa1FrAY6bZNkIa6JQ560JGlOHO2675a+TPBTyIFbT3/DQ==" />
     </item>
+    <item>
+      <title>Version 1.0.13</title>
+      <pubDate>Fri, 13 Feb 2026 23:06:36 +0100</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.0.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.0.13/WhisperBar-1.0.13.dmg" length="136925066" type="application/octet-stream" sparkle:edSignature="MSz+UNPzJxv6SVYkjfRzTtn/KyDCBRg0sbN98bCTm/YFKr2wLdYl+GSE1DcrwPvuw5WxFWhbZLjz7E9iI5okAg==" />
+    </item>
   </channel>
 </rss>
