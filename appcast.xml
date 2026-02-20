@@ -203,18 +203,26 @@
       <sparkle:version>28</sparkle:version>
       <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[
-        <p><strong>New:</strong></p>
-        <ul>
-            <li>Push-to-talk mode - Hold the shortcut while speaking, release to stop</li>
-            <li>Menu bar status indicator - Shows recording/transcribing status below menu bar when floating icon is disabled</li>
-        </ul>
-        <p><strong>Fixed:</strong></p>
-        <ul>
-            <li>Text not being inserted into focused text fields and clipboard reliability improved</li>
-        </ul>
-      ]]></description>
+      <description>
+        &lt;p&gt;&lt;strong&gt;New:&lt;/strong&gt;&lt;/p&gt;
+        &lt;ul&gt;
+            &lt;li&gt;Push-to-talk mode - Hold the shortcut while speaking, release to stop&lt;/li&gt;
+            &lt;li&gt;Menu bar status indicator - Shows recording/transcribing status below menu bar when floating icon is disabled&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;&lt;strong&gt;Fixed:&lt;/strong&gt;&lt;/p&gt;
+        &lt;ul&gt;
+            &lt;li&gt;Text not being inserted into focused text fields and clipboard reliability improved&lt;/li&gt;
+        &lt;/ul&gt;
+      </description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.1.0/WhisperBar-1.1.0.dmg" length="137098706" type="application/octet-stream" sparkle:edSignature="Xpujn4JGLaMLsbOmUah7kSoulyxS+/JmL1wzKIuDYgExtIqEDxJMspQt+IDPePEA/RJx5t0Una7cXKh45fNaDg==" />
+    </item>
+    <item>
+      <title>Version 1.1.1</title>
+      <pubDate>Fri, 20 Feb 2026 23:10:22 +0100</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.1.1/WhisperBar-1.1.1.dmg" length="137102168" type="application/octet-stream" sparkle:edSignature="oxT8J/IWNrAze8SNXmAnM/o419/sWG+hKrif9klAPKJ9VjP4nuV3snL1SllFcYzkXUv9fjaG+CdTNLjTNaQWCg==" />
     </item>
   </channel>
 </rss>
