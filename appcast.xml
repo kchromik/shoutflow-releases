@@ -188,15 +188,6 @@
       <sparkle:shortVersionString>1.0.28</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-        <h3>Deutsch</h3>
-        <p><strong>Neu:</strong></p>
-        <ul>
-            <li>Automatische Spracherkennung - Whisper erkennt die gesprochene Sprache automatisch</li>
-            <li>Update-Benachrichtigung - Zeigt im Menü an, wenn ein Update verfügbar ist</li>
-            <li>Transkriptions-Historie - Speichert vergangene Transkriptionen (optional aktivierbar)</li>
-        </ul>
-
-        <h3>English</h3>
         <p><strong>New:</strong></p>
         <ul>
             <li>Automatic language detection - Whisper automatically detects the spoken language</li>
