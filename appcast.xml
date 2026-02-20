@@ -203,6 +203,17 @@
       <sparkle:version>28</sparkle:version>
       <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p><strong>New:</strong></p>
+        <ul>
+            <li>Push-to-talk mode - Hold the shortcut while speaking, release to stop</li>
+            <li>Menu bar status indicator - Shows recording/transcribing status below menu bar when floating icon is disabled</li>
+        </ul>
+        <p><strong>Fixed:</strong></p>
+        <ul>
+            <li>Text not being inserted into focused text fields and clipboard reliability improved</li>
+        </ul>
+      ]]></description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.1.0/WhisperBar-1.1.0.dmg" length="137098706" type="application/octet-stream" sparkle:edSignature="Xpujn4JGLaMLsbOmUah7kSoulyxS+/JmL1wzKIuDYgExtIqEDxJMspQt+IDPePEA/RJx5t0Una7cXKh45fNaDg==" />
     </item>
   </channel>
