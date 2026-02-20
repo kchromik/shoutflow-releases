@@ -187,15 +187,23 @@
       <sparkle:version>27</sparkle:version>
       <sparkle:shortVersionString>1.0.28</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[
-        <p><strong>New:</strong></p>
-        <ul>
-            <li>Automatic language detection - Whisper automatically detects the spoken language</li>
-            <li>Update notification - Shows in the menu when an update is available</li>
-            <li>Transcription history - Saves past transcriptions (optionally enabled)</li>
-        </ul>
-      ]]></description>
+      <description>
+        &lt;p&gt;&lt;strong&gt;New:&lt;/strong&gt;&lt;/p&gt;
+        &lt;ul&gt;
+            &lt;li&gt;Automatic language detection - Whisper automatically detects the spoken language&lt;/li&gt;
+            &lt;li&gt;Update notification - Shows in the menu when an update is available&lt;/li&gt;
+            &lt;li&gt;Transcription history - Saves past transcriptions (optionally enabled)&lt;/li&gt;
+        &lt;/ul&gt;
+      </description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.0.28/WhisperBar-1.0.28.dmg" length="137060352" type="application/octet-stream" sparkle:edSignature="m4VFbH8655uXYSYvVdBjyKEb2bDxvBPJefCQuBtRZ7mumeWf9DA8OivQY1ksRm0baIKKUFYNsVGyU/j4ju1OAw==" />
+    </item>
+    <item>
+      <title>Version 1.1.0</title>
+      <pubDate>Fri, 20 Feb 2026 15:04:05 +0100</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.1.0/WhisperBar-1.1.0.dmg" length="137098706" type="application/octet-stream" sparkle:edSignature="Xpujn4JGLaMLsbOmUah7kSoulyxS+/JmL1wzKIuDYgExtIqEDxJMspQt+IDPePEA/RJx5t0Una7cXKh45fNaDg==" />
     </item>
   </channel>
 </rss>
