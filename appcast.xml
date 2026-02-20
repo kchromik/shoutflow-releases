@@ -187,6 +187,23 @@
       <sparkle:version>27</sparkle:version>
       <sparkle:shortVersionString>1.0.28</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h3>Deutsch</h3>
+        <p><strong>Neu:</strong></p>
+        <ul>
+            <li>Automatische Spracherkennung - Whisper erkennt die gesprochene Sprache automatisch</li>
+            <li>Update-Benachrichtigung - Zeigt im Menü an, wenn ein Update verfügbar ist</li>
+            <li>Transkriptions-Historie - Speichert vergangene Transkriptionen (optional aktivierbar)</li>
+        </ul>
+
+        <h3>English</h3>
+        <p><strong>New:</strong></p>
+        <ul>
+            <li>Automatic language detection - Whisper automatically detects the spoken language</li>
+            <li>Update notification - Shows in the menu when an update is available</li>
+            <li>Transcription history - Saves past transcriptions (optionally enabled)</li>
+        </ul>
+      ]]></description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.0.28/WhisperBar-1.0.28.dmg" length="137060352" type="application/octet-stream" sparkle:edSignature="m4VFbH8655uXYSYvVdBjyKEb2bDxvBPJefCQuBtRZ7mumeWf9DA8OivQY1ksRm0baIKKUFYNsVGyU/j4ju1OAw==" />
     </item>
   </channel>
