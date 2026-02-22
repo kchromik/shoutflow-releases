@@ -230,6 +230,12 @@
       <sparkle:version>30</sparkle:version>
       <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>
+        &lt;p&gt;&lt;strong&gt;Improved:&lt;/strong&gt;&lt;/p&gt;
+        &lt;ul&gt;
+            &lt;li&gt;Internal recording system improvements for better stability&lt;/li&gt;
+        &lt;/ul&gt;
+      </description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.2.0/WhisperBar-1.2.0.dmg" length="137154014" type="application/octet-stream" sparkle:edSignature="E3wA96HySrBx+xtm+2EEzDRPk1yP7ErX88skyht9NJi2xoKBWni9sJDZVIBulQx7i68A3a11bBofd8BEbybhCw==" />
     </item>
   </channel>
