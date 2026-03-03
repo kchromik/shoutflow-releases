@@ -246,5 +246,27 @@
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.3.0/WhisperBar-1.3.0.dmg" length="137161278" type="application/octet-stream" sparkle:edSignature="1J9QgA5B3B7k+sl2nfE3ESnoxYhMEQi1Op2s6+gGB4MBzP0+1fS/JpFicECdnzIeIX0NhEDHs34cHYvYW0kMCA==" />
     </item>
+    <item>
+      <title>Version 1.4.0</title>
+      <pubDate>Tue, 03 Mar 2026 21:47:30 +0100</pubDate>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;New:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Right-click context menu on the floating icon to quickly change language, toggle push-to-talk, or switch microphone — without opening Settings&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Improved:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Text is now pasted significantly faster after dictation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Fixed:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Text insertion is now more reliable across all apps&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.4.0/WhisperBar-1.4.0.dmg" length="137174956" type="application/octet-stream" sparkle:edSignature="OZiOEQSsUTESZbuDqQQUX4waE//kiVmOIsK/bev3N8rG38qrKNEkQvXgD79J/DObfri9aLVkEudjwOYLFJhqAQ==" />
+    </item>
   </channel>
 </rss>
