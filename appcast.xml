@@ -268,5 +268,27 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.4.0/WhisperBar-1.4.0.dmg" length="137174956" type="application/octet-stream" sparkle:edSignature="OZiOEQSsUTESZbuDqQQUX4waE//kiVmOIsK/bev3N8rG38qrKNEkQvXgD79J/DObfri9aLVkEudjwOYLFJhqAQ==" />
     </item>
+    <item>
+      <title>Version 1.5.0</title>
+      <pubDate>Tue, 03 Mar 2026 22:55:45 +0100</pubDate>
+      <sparkle:version>34</sparkle:version>
+      <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;New:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Right-click context menu on the floating icon to quickly change language, toggle push-to-talk, or switch microphone — without opening Settings&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Improved:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Text is now pasted significantly faster after dictation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Fixed:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Text insertion is now more reliable across all apps&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.5.0/WhisperBar-1.5.0.dmg" length="144487312" type="application/octet-stream" sparkle:edSignature="G1ioB46mjWI690Ip1iFUySsgZ9NMyTC6BxmNFt0FP6nj1l/gFTj2DDkwjHENXcmz5VA24g7xRAwc6rjXEix8Bg==" />
+    </item>
   </channel>
 </rss>
