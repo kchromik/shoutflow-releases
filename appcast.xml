@@ -303,5 +303,18 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.6.0/WhisperBar-1.6.0.dmg" length="144545339" type="application/octet-stream" sparkle:edSignature="a7p5JLq9ewaTnxOH8QR1NLMaAqesdpsnzY9J7RI3FJHsu+RD3m4Mmwa6pgCliu6v9ah6wlhqAvXTIYgOjyIcAg==" />
     </item>
+    <item>
+      <title>Version 1.6.1</title>
+      <pubDate>Wed, 04 Mar 2026 15:15:24 +0100</pubDate>
+      <sparkle:version>36</sparkle:version>
+      <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;New:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Custom Words — add words that are often misrecognized (your name, technical terms) and WhisperBar will automatically correct similar-sounding transcriptions&lt;/li&gt;
+    &lt;li&gt;Clipboard Manager — choose between modifying the clipboard directly or preserving your existing clipboard content when inserting text&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.6.1/WhisperBar-1.6.1.dmg" length="144545249" type="application/octet-stream" sparkle:edSignature="dgIyMc660p7G0REw0qOWkebuRuGUJR395FNDAcPCAmUo1XRbJ5qQSlDg+MZfrMtPITclfmHsT0NUShf4f8V4DQ==" />
+    </item>
   </channel>
 </rss>
