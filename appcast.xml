@@ -316,5 +316,23 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.6.1/WhisperBar-1.6.1.dmg" length="144545249" type="application/octet-stream" sparkle:edSignature="dgIyMc660p7G0REw0qOWkebuRuGUJR395FNDAcPCAmUo1XRbJ5qQSlDg+MZfrMtPITclfmHsT0NUShf4f8V4DQ==" />
     </item>
+    <item>
+      <title>Version 1.7.0</title>
+      <pubDate>Thu, 05 Mar 2026 15:49:39 +0100</pubDate>
+      <sparkle:version>37</sparkle:version>
+      <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;New:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;File Transcription — drag and drop audio or video files onto the floating icon or use the new File tab in Settings to get a full transcript&lt;/li&gt;
+    &lt;li&gt;Right Command key — use the right ⌘ key as your recording shortcut (configurable in Settings)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Improved:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Real-time progress indicator when transcribing longer files&lt;/li&gt;
+    &lt;li&gt;File transcription can be cancelled at any time&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.7.0/WhisperBar-1.7.0.dmg" length="144681840" type="application/octet-stream" sparkle:edSignature="M2e+A/f+Ogexwc3JpElG9HEM9rvWl8K6CmGBfhVD6iH0F1DPu/9XnsX4eP+zdWsIgDA7pSVZc9geAFf1KHgjBw==" />
+    </item>
   </channel>
 </rss>
