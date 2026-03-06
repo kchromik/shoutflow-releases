@@ -334,5 +334,17 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.7.0/WhisperBar-1.7.0.dmg" length="144681840" type="application/octet-stream" sparkle:edSignature="M2e+A/f+Ogexwc3JpElG9HEM9rvWl8K6CmGBfhVD6iH0F1DPu/9XnsX4eP+zdWsIgDA7pSVZc9geAFf1KHgjBw==" />
     </item>
+    <item>
+      <title>Version 1.7.1</title>
+      <pubDate>Fri, 06 Mar 2026 09:35:25 +0100</pubDate>
+      <sparkle:version>38</sparkle:version>
+      <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;Fixed:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Fixed an issue where the license key had to be re-entered after an update&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.7.1/WhisperBar-1.7.1.dmg" length="144666300" type="application/octet-stream" sparkle:edSignature="v2neLsmlqp06NrFzsXNIBtC2pTIc/rWUG1Y979+G6xX3PXu8ksVZSJ4y9IK7q07K2v993RfzlbCH7MsZqYQ3Cg==" />
+    </item>
   </channel>
 </rss>
