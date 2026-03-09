@@ -346,5 +346,17 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.7.1/WhisperBar-1.7.1.dmg" length="144666300" type="application/octet-stream" sparkle:edSignature="v2neLsmlqp06NrFzsXNIBtC2pTIc/rWUG1Y979+G6xX3PXu8ksVZSJ4y9IK7q07K2v993RfzlbCH7MsZqYQ3Cg==" />
     </item>
+    <item>
+      <title>Version 1.8.0</title>
+      <pubDate>Mon, 09 Mar 2026 12:26:35 +0100</pubDate>
+      <sparkle:version>39</sparkle:version>
+      <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;New:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;fn (Globe) key — use the fn/🌐 key as your recording shortcut (configurable in Settings)&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.8.0/WhisperBar-1.8.0.dmg" length="144694930" type="application/octet-stream" sparkle:edSignature="uYGbB5LBe6krirsPvURJuOEkbt6+DKO4UEQx5apJ1PiFt2ASJXNsUx2ioJiaCiuh5GViGaQRWcjgISAG7y+1Bg==" />
+    </item>
   </channel>
 </rss>
