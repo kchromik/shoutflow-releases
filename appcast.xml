@@ -358,5 +358,17 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.8.0/WhisperBar-1.8.0.dmg" length="144694930" type="application/octet-stream" sparkle:edSignature="uYGbB5LBe6krirsPvURJuOEkbt6+DKO4UEQx5apJ1PiFt2ASJXNsUx2ioJiaCiuh5GViGaQRWcjgISAG7y+1Bg==" />
     </item>
+    <item>
+      <title>Version 1.8.1</title>
+      <pubDate>Tue, 10 Mar 2026 11:29:05 +0100</pubDate>
+      <sparkle:version>40</sparkle:version>
+      <sparkle:shortVersionString>1.8.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;Fixed:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Fixed an issue where the "Launch at Login" toggle did not always reflect the correct state&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.8.1/WhisperBar-1.8.1.dmg" length="144699666" type="application/octet-stream" sparkle:edSignature="UCQ0Wlcyf43Nte83tH+LD34RiEHEKctQaXsvG5BKuBuXmOLOQOA0T0b5cQvUt8brpCETbkpWHxup/lhgwQ8YBQ==" />
+    </item>
   </channel>
 </rss>
