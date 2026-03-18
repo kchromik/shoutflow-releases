@@ -370,5 +370,18 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.8.1/WhisperBar-1.8.1.dmg" length="144699666" type="application/octet-stream" sparkle:edSignature="UCQ0Wlcyf43Nte83tH+LD34RiEHEKctQaXsvG5BKuBuXmOLOQOA0T0b5cQvUt8brpCETbkpWHxup/lhgwQ8YBQ==" />
     </item>
+    <item>
+      <title>Version 1.9.0</title>
+      <pubDate>Wed, 18 Mar 2026 10:14:44 +0100</pubDate>
+      <sparkle:version>41</sparkle:version>
+      <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;New:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Statistics — view transcription stats like total count, duration, words, and language breakdown in a new Settings tab&lt;/li&gt;
+    &lt;li&gt;Left Command key — use the left ⌘ key as your recording shortcut (configurable in Settings)&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.9.0/WhisperBar-1.9.0.dmg" length="144786167" type="application/octet-stream" sparkle:edSignature="UzCBEJCE5Kw36eSr7PRXnlPrrfpB//rD4I0BsHHpT6b700Jj5Ibmq/Vnm69KU1d+P2e4RK4kXbvRjmB24swLDQ==" />
+    </item>
   </channel>
 </rss>
