@@ -395,5 +395,17 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.9.1/WhisperBar-1.9.1.dmg" length="144786159" type="application/octet-stream" sparkle:edSignature="CjShj+FAWpzlHfbT/bmkUUaaB37dYmkXYJt0T0A/v3A6qARy6cAWjrebTqeI0JLZWbPNVPKr/f9Vb306qLcPBA==" />
     </item>
+    <item>
+      <title>Version 1.9.2</title>
+      <pubDate>Wed, 18 Mar 2026 10:58:31 +0100</pubDate>
+      <sparkle:version>43</sparkle:version>
+      <sparkle:shortVersionString>1.9.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;Fixed:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Settings window too narrow — some tabs (e.g. Models) were inaccessible in localized builds&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.9.2/WhisperBar-1.9.2.dmg" length="144786205" type="application/octet-stream" sparkle:edSignature="vIDTGZGxaKeM4gsRft5HC7awn6sBH1WPXfdYetSyMiUO8Ja4HWspe0ooYl9vVmSKeL9ECKrQAqNrlFT2gn4BAA==" />
+    </item>
   </channel>
 </rss>
