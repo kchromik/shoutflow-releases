@@ -383,5 +383,17 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.9.0/WhisperBar-1.9.0.dmg" length="144786167" type="application/octet-stream" sparkle:edSignature="UzCBEJCE5Kw36eSr7PRXnlPrrfpB//rD4I0BsHHpT6b700Jj5Ibmq/Vnm69KU1d+P2e4RK4kXbvRjmB24swLDQ==" />
     </item>
+    <item>
+      <title>Version 1.9.1</title>
+      <pubDate>Wed, 18 Mar 2026 10:32:48 +0100</pubDate>
+      <sparkle:version>42</sparkle:version>
+      <sparkle:shortVersionString>1.9.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;Fixed:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Fixed an issue where license activation could fail on machines with very short hostnames&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.9.1/WhisperBar-1.9.1.dmg" length="144786159" type="application/octet-stream" sparkle:edSignature="CjShj+FAWpzlHfbT/bmkUUaaB37dYmkXYJt0T0A/v3A6qARy6cAWjrebTqeI0JLZWbPNVPKr/f9Vb306qLcPBA==" />
+    </item>
   </channel>
 </rss>
