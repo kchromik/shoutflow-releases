@@ -434,5 +434,17 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.10.0/WhisperBar-1.10.0.dmg" length="144905455" type="application/octet-stream" sparkle:edSignature="r443ooUjFK5Tu3VhQ7C/63PF4eLr/X92R5z0+BQiT5yJhZkakyTugdXDXu/B0aaDVYiFhrMQpes6Tonvrgn+Cw==" />
     </item>
+    <item>
+      <title>Version 1.10.1</title>
+      <pubDate>Tue, 31 Mar 2026 15:42:41 +0200</pubDate>
+      <sparkle:version>45</sparkle:version>
+      <sparkle:shortVersionString>1.10.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;Fixed:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Audio feedback start sound now plays at full volume when audio ducking is enabled&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.10.1/WhisperBar-1.10.1.dmg" length="144906255" type="application/octet-stream" sparkle:edSignature="nnCNXKBJSvl5oTpfIIrvyin+vv4j6fRtUxRLQLZRpNVgQN+iQH04iy3dqBS96G4wCHnuLtfrMV0cudPlujlwDg==" />
+    </item>
   </channel>
 </rss>
