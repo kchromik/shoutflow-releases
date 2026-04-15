@@ -446,5 +446,34 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.10.1/WhisperBar-1.10.1.dmg" length="144906255" type="application/octet-stream" sparkle:edSignature="nnCNXKBJSvl5oTpfIIrvyin+vv4j6fRtUxRLQLZRpNVgQN+iQH04iy3dqBS96G4wCHnuLtfrMV0cudPlujlwDg==" />
     </item>
+    <item>
+      <title>Version 1.11.0</title>
+      <pubDate>Wed, 15 Apr 2026 15:58:51 +0200</pubDate>
+      <sparkle:version>46</sparkle:version>
+      <sparkle:shortVersionString>1.11.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;New:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Enhance — cleans up transcripts, fixes grammar, and removes self-corrections like "at 8, no I mean at 9". Runs on-device with Gemma 4. Off by default — enable in Settings → Advanced (one-time ~5 GB model download).&lt;/li&gt;
+    &lt;li&gt;Statistics — view transcription stats like total count, duration, words, and language breakdown in a new Settings tab&lt;/li&gt;
+    &lt;li&gt;Left Command key — use the left ⌘ key as your recording shortcut (configurable in Settings)&lt;/li&gt;
+    &lt;li&gt;History search &amp; filter — search transcriptions by text, filter by date range, and sort by newest or oldest&lt;/li&gt;
+    &lt;li&gt;Audio feedback — optional sound effects when recording starts, finishes, or fails (off by default)&lt;/li&gt;
+    &lt;li&gt;Audio ducking — automatically reduces system volume while recording (off by default)&lt;/li&gt;
+    &lt;li&gt;Quick copy — double-click any history item or the last transcription in the menu bar to copy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Improved:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Floating icon now remembers its position across restarts, even on multi-monitor setups&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Fixed:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;License no longer lost after Homebrew updates&lt;/li&gt;
+    &lt;li&gt;Update banner in menu bar now responds to clicks&lt;/li&gt;
+    &lt;li&gt;Floating icon no longer gets lost when disconnecting an external monitor&lt;/li&gt;
+    &lt;li&gt;Audio feedback start sound now plays at full volume when audio ducking is enabled&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.11.0/WhisperBar-1.11.0.dmg" length="147830285" type="application/octet-stream" sparkle:edSignature="gcI4AJqubbJ+kiqgqCWxjDvt18fiWwr1dCDADDFKQs9FK+VPxOEr6aAQW4U/Qdh6UCtqxgHVGKpu3Ee29lLMBQ==" />
+    </item>
   </channel>
 </rss>
