@@ -475,5 +475,22 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.11.0/WhisperBar-1.11.0.dmg" length="147830285" type="application/octet-stream" sparkle:edSignature="gcI4AJqubbJ+kiqgqCWxjDvt18fiWwr1dCDADDFKQs9FK+VPxOEr6aAQW4U/Qdh6UCtqxgHVGKpu3Ee29lLMBQ==" />
     </item>
+    <item>
+      <title>Version 1.11.1</title>
+      <pubDate>Wed, 15 Apr 2026 18:45:24 +0200</pubDate>
+      <sparkle:version>47</sparkle:version>
+      <sparkle:shortVersionString>1.11.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;Improved:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Menu bar status widget — cleaner rounded corners, fixed size that doesn't resize between states, and a smooth slide-in/out animation from the top of the screen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Fixed:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Status widget no longer gets clipped behind the notch on MacBook Pro 14" and 16"&lt;/li&gt;
+    &lt;li&gt;Potential crash during Enhance caused by an orphaned animation timer&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.11.1/WhisperBar-1.11.1.dmg" length="147831067" type="application/octet-stream" sparkle:edSignature="K2L/2+7kycw51BYCecxBnPeoa7+95boQp/g275oantDZ9viqzHMZ/oXi8J16Jk5JRNiZ2AGfMw52jSzT8jldCA==" />
+    </item>
   </channel>
 </rss>
