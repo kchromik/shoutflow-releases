@@ -492,5 +492,23 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.11.1/WhisperBar-1.11.1.dmg" length="147831067" type="application/octet-stream" sparkle:edSignature="K2L/2+7kycw51BYCecxBnPeoa7+95boQp/g275oantDZ9viqzHMZ/oXi8J16Jk5JRNiZ2AGfMw52jSzT8jldCA==" />
     </item>
+    <item>
+      <title>Version 1.12.0</title>
+      <pubDate>Wed, 15 Apr 2026 21:51:33 +0200</pubDate>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>1.12.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;Improved:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Clearer error messages — warnings (orange) and errors (red) are now visually distinct, with actionable copy that tells you what to do next&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Fixed:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Very short recordings no longer show an error — the floating icon just disappears when there's nothing to transcribe&lt;/li&gt;
+    &lt;li&gt;Removed hallucinated filler phrases that Whisper sometimes inserted into silent or short recordings&lt;/li&gt;
+    &lt;li&gt;Collapsed stray newlines inside transcripts into clean, continuous text&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.12.0/WhisperBar-1.12.0.dmg" length="147837133" type="application/octet-stream" sparkle:edSignature="G2OsB4QFpjQ6Salm77WyWaYjGkuojIT8KM6OIYV+HPWAH3hjWXrrZd1Buz8VUC7qsDd4NlnjfVzaYiPFureLBg==" />
+    </item>
   </channel>
 </rss>
