@@ -510,5 +510,17 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.12.0/WhisperBar-1.12.0.dmg" length="147837133" type="application/octet-stream" sparkle:edSignature="G2OsB4QFpjQ6Salm77WyWaYjGkuojIT8KM6OIYV+HPWAH3hjWXrrZd1Buz8VUC7qsDd4NlnjfVzaYiPFureLBg==" />
     </item>
+    <item>
+      <title>Version 1.13.0</title>
+      <pubDate>Fri, 17 Apr 2026 09:42:46 +0200</pubDate>
+      <sparkle:version>49</sparkle:version>
+      <sparkle:shortVersionString>1.13.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;Improved:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Parakeet is now significantly faster and more accurate&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.13.0/WhisperBar-1.13.0.dmg" length="143045484" type="application/octet-stream" sparkle:edSignature="JwVWUEruf0kXTwPndrO29U5XRLFJQeJssufq/3t78DA5A6TwSgvIE450CCBQLJqvNqGNlaC+jXBgudyKRtbwBA==" />
+    </item>
   </channel>
 </rss>
