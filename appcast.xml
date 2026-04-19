@@ -536,5 +536,18 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.13.1/WhisperBar-1.13.1.dmg" length="143048074" type="application/octet-stream" sparkle:edSignature="MUJYOI6GS041UVLPM5zq4mNADmdnFFmuog57UBDW7X6FH+mRACplpfkjSXYD5hlxVyobSUxUPccZjezSMQHkAw==" />
     </item>
+    <item>
+      <title>Version 1.13.2</title>
+      <pubDate>Sun, 19 Apr 2026 21:04:34 +0200</pubDate>
+      <sparkle:version>51</sparkle:version>
+      <sparkle:shortVersionString>1.13.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;Fixed:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Menu bar status overlay could appear duplicated or get stuck on screen, especially after connecting an external monitor&lt;/li&gt;
+    &lt;li&gt;Downloaded Whisper models could not be deleted after switching the transcription engine to Parakeet&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.13.2/WhisperBar-1.13.2.dmg" length="143048524" type="application/octet-stream" sparkle:edSignature="s0zwuYIdj6cDYaU1khtbSle7qk0LXZTbajCrgjvYeZkIt2J5//L3B9s5UBqRVEVcJcg2MGVMo0fpTHbONPVcBw==" />
+    </item>
   </channel>
 </rss>
