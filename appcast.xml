@@ -549,5 +549,22 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.13.2/WhisperBar-1.13.2.dmg" length="143048524" type="application/octet-stream" sparkle:edSignature="s0zwuYIdj6cDYaU1khtbSle7qk0LXZTbajCrgjvYeZkIt2J5//L3B9s5UBqRVEVcJcg2MGVMo0fpTHbONPVcBw==" />
     </item>
+    <item>
+      <title>Version 1.14.0</title>
+      <pubDate>Tue, 12 May 2026 16:20:44 +0200</pubDate>
+      <sparkle:version>52</sparkle:version>
+      <sparkle:shortVersionString>1.14.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;New:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Enhance can now run through a local CLI such as Claude Code, Codex, or Gemini CLI — much faster than the on-device LLM if you already have one of these tools installed&lt;/li&gt;
+    &lt;li&gt;Added an optional second keyboard shortcut dedicated to "transcribe + Enhance" — leave the first shortcut for plain transcription and trigger Enhance on demand by pressing the second one&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Fixed:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Lifetime transcription statistics no longer reset when you delete history items or hit the history size limit — stats are now tracked independently of the history&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.14.0/WhisperBar-1.14.0.dmg" length="143139851" type="application/octet-stream" sparkle:edSignature="5KlDCcsVVxesduhW+/oBu7l0L6UO5O7Zu5KHVVTtghgjabCCv609dy/yMSCAQXkE+pmUSaSmGERpTtjXU15EAA==" />
+    </item>
   </channel>
 </rss>
