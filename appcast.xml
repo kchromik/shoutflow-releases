@@ -566,5 +566,17 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.14.0/WhisperBar-1.14.0.dmg" length="143139851" type="application/octet-stream" sparkle:edSignature="5KlDCcsVVxesduhW+/oBu7l0L6UO5O7Zu5KHVVTtghgjabCCv609dy/yMSCAQXkE+pmUSaSmGERpTtjXU15EAA==" />
     </item>
+    <item>
+      <title>Version 1.14.1</title>
+      <pubDate>Tue, 12 May 2026 22:57:47 +0200</pubDate>
+      <sparkle:version>53</sparkle:version>
+      <sparkle:shortVersionString>1.14.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;Improved:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Default Enhance CLI templates are now tuned for speed: Claude Code uses Haiku 4.5 and Gemini CLI uses Gemini 2.5 Flash — both much faster than the previous defaults without sacrificing quality for transcript clean-up&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.14.1/WhisperBar-1.14.1.dmg" length="143139580" type="application/octet-stream" sparkle:edSignature="C8lsevn4WKSgDwKvWTraQvfLolyG94LSqZQTZxpAGSEbFb5+xmkkCJxehMvgVPYuv5Zi6G6gHGaYRS9KjHflDw==" />
+    </item>
   </channel>
 </rss>
