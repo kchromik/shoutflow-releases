@@ -578,5 +578,18 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.14.1/WhisperBar-1.14.1.dmg" length="143139580" type="application/octet-stream" sparkle:edSignature="C8lsevn4WKSgDwKvWTraQvfLolyG94LSqZQTZxpAGSEbFb5+xmkkCJxehMvgVPYuv5Zi6G6gHGaYRS9KjHflDw==" />
     </item>
+    <item>
+      <title>Version 1.14.2</title>
+      <pubDate>Wed, 13 May 2026 09:21:47 +0200</pubDate>
+      <sparkle:version>54</sparkle:version>
+      <sparkle:shortVersionString>1.14.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;Fixed:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Push-to-talk could stop recording too early when a second shortcut was configured and another modifier key (Shift, Control, Option) was tapped during the hold&lt;/li&gt;
+    &lt;li&gt;Setting both shortcuts to overlapping modifier combinations (e.g. Right Command alongside a ⌘-based custom shortcut) could trigger the wrong slot — the settings UI now prevents conflicting combinations&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.14.2/WhisperBar-1.14.2.dmg" length="143141074" type="application/octet-stream" sparkle:edSignature="PuBYuCBPVlxivZQQ3OT9RQf4HfxVWYtjkSFl1EqwgRHDXL7Yl7mgAPiHVReRjjMtNGX/EvSxX9cEBiW6R3RpAQ==" />
+    </item>
   </channel>
 </rss>
