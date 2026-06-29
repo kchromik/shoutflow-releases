@@ -591,5 +591,18 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.14.2/WhisperBar-1.14.2.dmg" length="143141074" type="application/octet-stream" sparkle:edSignature="PuBYuCBPVlxivZQQ3OT9RQf4HfxVWYtjkSFl1EqwgRHDXL7Yl7mgAPiHVReRjjMtNGX/EvSxX9cEBiW6R3RpAQ==" />
     </item>
+    <item>
+      <title>Version 1.14.3</title>
+      <pubDate>Mon, 29 Jun 2026 16:02:21 +0200</pubDate>
+      <sparkle:version>55</sparkle:version>
+      <sparkle:shortVersionString>1.14.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;Improved:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;The last transcription preview in the menu bar now truncates to two lines so long text no longer overflows into other menu items.&lt;/li&gt;
+    &lt;li&gt;New installs now default to English transcription instead of German.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.14.3/WhisperBar-1.14.3.dmg" length="144328189" type="application/octet-stream" sparkle:edSignature="nbh4uVndTANVGgHBrQvn9z/s+WJTnHi946HA3RiWJWVZSUBQFeLyr5NYJFIkGKcnC5fWMu487u+q7jPGaNMpAQ==" />
+    </item>
   </channel>
 </rss>
