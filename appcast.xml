@@ -604,5 +604,17 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.14.3/WhisperBar-1.14.3.dmg" length="144328189" type="application/octet-stream" sparkle:edSignature="nbh4uVndTANVGgHBrQvn9z/s+WJTnHi946HA3RiWJWVZSUBQFeLyr5NYJFIkGKcnC5fWMu487u+q7jPGaNMpAQ==" />
     </item>
+    <item>
+      <title>Version 1.14.4</title>
+      <pubDate>Tue, 30 Jun 2026 08:27:58 +0200</pubDate>
+      <sparkle:version>56</sparkle:version>
+      <sparkle:shortVersionString>1.14.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;Improved:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Various small optimizations and under-the-hood improvements.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.14.4/WhisperBar-1.14.4.dmg" length="144327521" type="application/octet-stream" sparkle:edSignature="q8Z8SEg3bJ6cBe+u7HkhZzACija60A+dluaLsVu+pPsLTqISlKGAcYdW0kSE0IbjiXoinTEaI6psFNxl24z9Ag==" />
+    </item>
   </channel>
 </rss>
