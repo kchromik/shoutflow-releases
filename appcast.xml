@@ -616,5 +616,21 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.14.4/WhisperBar-1.14.4.dmg" length="144327521" type="application/octet-stream" sparkle:edSignature="q8Z8SEg3bJ6cBe+u7HkhZzACija60A+dluaLsVu+pPsLTqISlKGAcYdW0kSE0IbjiXoinTEaI6psFNxl24z9Ag==" />
     </item>
+    <item>
+      <title>Version 1.14.5</title>
+      <pubDate>Tue, 30 Jun 2026 14:30:11 +0200</pubDate>
+      <sparkle:version>57</sparkle:version>
+      <sparkle:shortVersionString>1.14.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;Fixed:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Transcription could silently stop working if the selected model wasn't downloaded — the app now falls back to an available model automatically.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Improved:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;The status overlay now shows the actual error message instead of just an icon.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.14.5/WhisperBar-1.14.5.dmg" length="144335455" type="application/octet-stream" sparkle:edSignature="79Gl7Z7jBRrG1w0NTejWW8R85tbKs+oGwsldcP3+66fhPopoaXaehgCSdf1CRUkKuPUXaRNRuPXucHt3hyg9Dg==" />
+    </item>
   </channel>
 </rss>
