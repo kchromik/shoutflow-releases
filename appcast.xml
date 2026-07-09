@@ -632,5 +632,18 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.14.5/WhisperBar-1.14.5.dmg" length="144335455" type="application/octet-stream" sparkle:edSignature="79Gl7Z7jBRrG1w0NTejWW8R85tbKs+oGwsldcP3+66fhPopoaXaehgCSdf1CRUkKuPUXaRNRuPXucHt3hyg9Dg==" />
     </item>
+    <item>
+      <title>Version 1.14.6</title>
+      <pubDate>Thu, 09 Jul 2026 11:20:48 +0200</pubDate>
+      <sparkle:version>58</sparkle:version>
+      <sparkle:shortVersionString>1.14.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;Fixed:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Parakeet model download no longer appears stuck at 2% — progress now updates continuously, and interrupted downloads resume where they left off.&lt;/li&gt;
+    &lt;li&gt;After updating, existing installations reuse the already downloaded Parakeet model instead of re-downloading ~480 MB.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.14.6/WhisperBar-1.14.6.dmg" length="144362665" type="application/octet-stream" sparkle:edSignature="uDmiDE0hTSzGVcwKC+CKK+BVYDg8iDkPokraS7PZ53b6k6MjVOZ2Qo8GqrH5K6tG9D9SHj4ejNUFAt99kUu9Ag==" />
+    </item>
   </channel>
 </rss>
