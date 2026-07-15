@@ -645,5 +645,22 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.14.6/WhisperBar-1.14.6.dmg" length="144362665" type="application/octet-stream" sparkle:edSignature="uDmiDE0hTSzGVcwKC+CKK+BVYDg8iDkPokraS7PZ53b6k6MjVOZ2Qo8GqrH5K6tG9D9SHj4ejNUFAt99kUu9Ag==" />
     </item>
+    <item>
+      <title>Version 1.15.0</title>
+      <pubDate>Wed, 15 Jul 2026 09:33:26 +0200</pubDate>
+      <sparkle:version>59</sparkle:version>
+      <sparkle:shortVersionString>1.15.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;Improved:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Enhance is now significantly faster and more reliable — the local AI model stays warm in memory, so enhancement starts instantly instead of reloading the model for every dictation.&lt;/li&gt;
+    &lt;li&gt;If Enhance can't complete (for example after a timeout), the app now inserts the plain transcription and briefly tells you — instead of failing silently.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Fixed:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Enhance could occasionally insert AI meta-commentary instead of your text — the output is now validated and the plain transcription is used whenever the result doesn't look right.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.15.0/WhisperBar-1.15.0.dmg" length="151955935" type="application/octet-stream" sparkle:edSignature="n/J7ymXZp8k9IJO31mFcC9x2acelq1kgF6VPiyKHmIEV8+i5n8ImezfBz5pGDdpo463YtlHeC1EQ/DdXoC/dBg==" />
+    </item>
   </channel>
 </rss>
