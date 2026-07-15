@@ -662,5 +662,17 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.15.0/WhisperBar-1.15.0.dmg" length="151955935" type="application/octet-stream" sparkle:edSignature="n/J7ymXZp8k9IJO31mFcC9x2acelq1kgF6VPiyKHmIEV8+i5n8ImezfBz5pGDdpo463YtlHeC1EQ/DdXoC/dBg==" />
     </item>
+    <item>
+      <title>Version 1.15.1</title>
+      <pubDate>Wed, 15 Jul 2026 17:53:27 +0200</pubDate>
+      <sparkle:version>60</sparkle:version>
+      <sparkle:shortVersionString>1.15.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;Improved:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Local Enhance is dramatically faster — enhancement with the on-device model now completes in about a second once the model is warm, instead of 15+ seconds.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.15.1/WhisperBar-1.15.1.dmg" length="151962620" type="application/octet-stream" sparkle:edSignature="8mP1aAc2WDDqpcjytS6xZudEB5oQfuJ1xvkfP3imD3ZOxt4/Q9aN4Bmwm5g6tiGTPk6rm52qw3qP5foHH3PiDA==" />
+    </item>
   </channel>
 </rss>
