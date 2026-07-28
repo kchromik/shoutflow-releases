@@ -674,5 +674,22 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.15.1/WhisperBar-1.15.1.dmg" length="151962620" type="application/octet-stream" sparkle:edSignature="8mP1aAc2WDDqpcjytS6xZudEB5oQfuJ1xvkfP3imD3ZOxt4/Q9aN4Bmwm5g6tiGTPk6rm52qw3qP5foHH3PiDA==" />
     </item>
+    <item>
+      <title>Version 1.16.0</title>
+      <pubDate>Tue, 28 Jul 2026 12:09:46 +0200</pubDate>
+      <sparkle:version>61</sparkle:version>
+      <sparkle:shortVersionString>1.16.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;New:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;You can now cancel a dictation while it is being transcribed or enhanced, not just while recording. The X button in the overlay stops the whole process, and nothing is inserted.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Improved:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Local Enhance starts faster: the on-device model now loads while you are still speaking instead of afterwards, so enhanced dictations are ready sooner.&lt;/li&gt;
+    &lt;li&gt;Enhance handles numbers better and writes them as digits ("15" instead of "fifteen"), while keeping articles, expressions like "a couple of things", and years in their natural form.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.16.0/WhisperBar-1.16.0.dmg" length="151993081" type="application/octet-stream" sparkle:edSignature="43gPZJyxd3zopPi2d0+oVA9F34EPMHchT/8ShE0rtn5UhukQw3wvbkXVClBiR4+de2sCvRKiNQjmMlkqfMQiBg==" />
+    </item>
   </channel>
 </rss>
