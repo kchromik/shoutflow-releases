@@ -691,5 +691,17 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.16.0/WhisperBar-1.16.0.dmg" length="151993081" type="application/octet-stream" sparkle:edSignature="43gPZJyxd3zopPi2d0+oVA9F34EPMHchT/8ShE0rtn5UhukQw3wvbkXVClBiR4+de2sCvRKiNQjmMlkqfMQiBg==" />
     </item>
+    <item>
+      <title>Version 1.17.0</title>
+      <pubDate>Fri, 31 Jul 2026 18:31:02 +0200</pubDate>
+      <sparkle:version>62</sparkle:version>
+      <sparkle:shortVersionString>1.17.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;New:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;ShoutFlow can now press Return for you after a dictation is inserted. It is off by default and gets enabled per app in the Advanced settings, so it only fires where you allowed it, for example in a chat app or the terminal where Return sends the message.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.17.0/WhisperBar-1.17.0.dmg" length="152038385" type="application/octet-stream" sparkle:edSignature="YzBH8Pksz3sjLT4YUJE2N8bMQcL4Bpr6HyjzzXlvTXV9FD/I0tschMm+aoDoiLUW2V/jjuFNSrdNdDAp6XYWCA==" />
+    </item>
   </channel>
 </rss>
