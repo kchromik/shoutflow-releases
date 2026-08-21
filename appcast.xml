@@ -703,5 +703,29 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.17.0/WhisperBar-1.17.0.dmg" length="152038385" type="application/octet-stream" sparkle:edSignature="YzBH8Pksz3sjLT4YUJE2N8bMQcL4Bpr6HyjzzXlvTXV9FD/I0tschMm+aoDoiLUW2V/jjuFNSrdNdDAp6XYWCA==" />
     </item>
+    <item>
+      <title>Version 1.18.0</title>
+      <pubDate>Fri, 21 Aug 2026 18:45:58 +0200</pubDate>
+      <sparkle:version>63</sparkle:version>
+      <sparkle:shortVersionString>1.18.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;New:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Meeting Mode is back, marked as experimental. It records a meeting through your microphone, shows a live transcript while it runs, and afterwards produces a transcript split by speaker that you can rename and export. Speaker separation now picks the right engine on its own, so there is nothing to configure.&lt;/li&gt;
+    &lt;li&gt;WhisperBar can turn a finished meeting into notes: a short summary, the decisions that were made, action items as checkboxes with the person responsible and a deadline, and the questions that stayed open. The notes lead the transcript in the window, in the PDF and when you copy the meeting, and the checkboxes stay tickable when you paste them into a task app. This is off by default and can be switched on during the introduction or in Settings; you can also create notes by hand for any meeting.&lt;/li&gt;
+    &lt;li&gt;Meeting mode has its own short introduction now. It walks you through the one-time model download, explains how speaker detection works, and lets you switch on automatic meeting notes.&lt;/li&gt;
+    &lt;li&gt;Speaker detection no longer invents participants. A cluster holding a couple of seconds, typically laughter, crosstalk or intro music, used to show up as an extra person in the transcript; those seconds are now attributed to the speaker they belong to.&lt;/li&gt;
+    &lt;li&gt;You can now transcribe several files in one go. Drop a handful of recordings, or a whole folder, onto the file tab in Settings. WhisperBar asks once where to save, then works through the queue and writes one text file per recording. Dropping a single file still behaves exactly as before, and the floating icon stays a single-file drop target.&lt;/li&gt;
+    &lt;li&gt;While a queue runs you can see which file it is on, for example "File 7 of 30", how far along the whole queue is, and roughly how much time is left. A file that fails does not stop the run: it is marked in the list and you can retry just the failed ones afterwards. You can close the Settings window and keep following the progress from the menu bar, and if you start a dictation in between, the queue steps aside and picks up again when you are done.&lt;/li&gt;
+    &lt;li&gt;A new Debug tab in Settings can record a detailed local log for every dictation, file transcription and meeting. It makes problems with a specific microphone, model or setup far easier to track down. Debug logging is switched off by default and only starts recording once you turn it on.&lt;/li&gt;
+    &lt;li&gt;Debug logs never leave your Mac on their own. Nothing is uploaded, nothing is sent anywhere in the background, and no data is transmitted without your consent. A log is only handed over if you actively share or export it yourself. The logs contain technical details such as timings, model names, settings and the names of your audio devices, but never your audio and never the transcribed text. You can view, export and delete them at any time.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Fixed:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Bugfixes and improvements.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.18.0/WhisperBar-1.18.0.dmg" length="152572626" type="application/octet-stream" sparkle:edSignature="e5oMtTrF16mvBMcFYAhlTovbobjGUffJiX3SaLykoAodB/BqgtbARVph352N8D4T79pKzrMxpjWfXiblSqXwDg==" />
+    </item>
   </channel>
 </rss>
