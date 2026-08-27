@@ -727,5 +727,17 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.18.0/WhisperBar-1.18.0.dmg" length="152572626" type="application/octet-stream" sparkle:edSignature="e5oMtTrF16mvBMcFYAhlTovbobjGUffJiX3SaLykoAodB/BqgtbARVph352N8D4T79pKzrMxpjWfXiblSqXwDg==" />
     </item>
+    <item>
+      <title>Version 1.18.1</title>
+      <pubDate>Thu, 27 Aug 2026 10:04:23 +0200</pubDate>
+      <sparkle:version>64</sparkle:version>
+      <sparkle:shortVersionString>1.18.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;New:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;You can now test your Enhance setup directly in Settings. The Enhance tab runs your configured command once and shows whether it worked, so a missing or misconfigured tool turns up while you are setting it up rather than during a dictation.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.18.1/WhisperBar-1.18.1.dmg" length="152586672" type="application/octet-stream" sparkle:edSignature="MpsoYUrL/YnHHhBkzUJDcACkT83XNYCGv7BF/44wVGnsUZJ5wTJGC6QxTT677DlGZrVdJ1nnJeMRiBLmECTkBA==" />
+    </item>
   </channel>
 </rss>
