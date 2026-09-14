@@ -766,5 +766,22 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.19.0/WhisperBar-1.19.0.dmg" length="153167369" type="application/octet-stream" sparkle:edSignature="8j5xjJ0921N2AIjSMViZJo/T0hO8V+2AHqy4l+y6g6NbB0g+0LKqsRMvv2cJhZfR1NG+FFytupXUpoDs3lV0Dg==" />
     </item>
+    <item>
+      <title>Version 1.19.1</title>
+      <pubDate>Mon, 14 Sep 2026 20:46:54 +0200</pubDate>
+      <sparkle:version>66</sparkle:version>
+      <sparkle:shortVersionString>1.19.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;New:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Support and Help in Settings, with prefilled support emails including app version and Mac details, plus quick access to the WhisperBar Help Center.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Fixed:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed an issue where the recording shortcut could stop working after waking your Mac from sleep.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.19.1/WhisperBar-1.19.1.dmg" length="19960495" type="application/octet-stream" sparkle:edSignature="u3wEfpJK+UvXqprubBlTsyvMfYIiNreOuF/5kh3NdFmaEkGxBhPmEaVFfUn/ZDxsrS6ZqLnhbWAAxuR/k1mfDA==" />
+    </item>
   </channel>
 </rss>
