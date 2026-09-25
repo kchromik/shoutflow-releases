@@ -783,5 +783,25 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.19.1/WhisperBar-1.19.1.dmg" length="19960495" type="application/octet-stream" sparkle:edSignature="u3wEfpJK+UvXqprubBlTsyvMfYIiNreOuF/5kh3NdFmaEkGxBhPmEaVFfUn/ZDxsrS6ZqLnhbWAAxuR/k1mfDA==" />
     </item>
+    <item>
+      <title>Version 1.20.0</title>
+      <pubDate>Fri, 25 Sep 2026 22:14:58 +0200</pubDate>
+      <sparkle:version>67</sparkle:version>
+      <sparkle:shortVersionString>1.20.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;&lt;strong&gt;New:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Meeting Mode with live transcription, speaker recognition, microphone and system audio recording, and PDF export.&lt;/li&gt;
+  &lt;li&gt;Qwen3-ASR 1.7B as a new local model for dictation, file transcription, and batch transcription.&lt;/li&gt;
+  &lt;li&gt;Option to keep the local enhancement model loaded between uses, reducing reload delays at the cost of higher memory usage.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Fixed:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;File and batch transcriptions now correctly update statistics.&lt;/li&gt;
+  &lt;li&gt;Fixed shortcuts being unnecessarily blocked by Secure Input, improved automatic recovery, and made custom shortcut recording more reliable.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.20.0/WhisperBar-1.20.0.dmg" length="31821603" type="application/octet-stream" sparkle:edSignature="wZfHNF4UArVvv4vFijxamk4D5bG8e2cm9c+wFASFk0XqaIr62ezGlmu40s5wyAaHbjLDMCVQLFNgFzOf8D37Dg==" />
+    </item>
   </channel>
 </rss>
