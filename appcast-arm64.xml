@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>WhisperBar — Apple Silicon Updates</title>
+    <link>https://whisperbar.pro/</link>
+    <description>WhisperBar updates for Apple Silicon Macs.</description>
+    <language>en</language>
+    <item>
+      <title>WhisperBar 1.20.1</title>
+      <link>https://github.com/kchromik/shoutflow-releases/releases/tag/v1.20.1</link>
+      <pubDate>Sun, 27 Sep 2026 10:47:07 +0000</pubDate>
+      <sparkle:version>69</sparkle:version>
+      <sparkle:shortVersionString>1.20.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description>&lt;h2&gt;Fixed&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed a startup crash on older macOS versions after updating to WhisperBar 1.20.0.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.20.1/WhisperBar-1.20.1.dmg" length="35861449" type="application/octet-stream" sparkle:edSignature="s7NGvBebO+NOHrfMfcjUpvztT1BFeMLMUmIf0KYkslgziv54xpzNbqWrHhpOXOUbFEIQzgliBJI3rXY9NWKxAg==" />
+    </item>
+  </channel>
+</rss>
