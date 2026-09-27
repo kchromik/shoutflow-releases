@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
-    <title>ShoutFlow Updates</title>
+    <title>WhisperBar — Legacy Updates</title>
     <link>https://github.com/kchromik/shoutflow-releases</link>
-    <description>Most recent updates to ShoutFlow.</description>
+    <description>Final universal WhisperBar update. New releases require Apple Silicon.</description>
     <language>en</language>
     <item>
       <title>Version 1.0.1</title>
@@ -782,6 +782,15 @@
   &lt;li&gt;Fixed an issue where the recording shortcut could stop working after waking your Mac from sleep.&lt;/li&gt;
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.19.1/WhisperBar-1.19.1.dmg" length="19960495" type="application/octet-stream" sparkle:edSignature="u3wEfpJK+UvXqprubBlTsyvMfYIiNreOuF/5kh3NdFmaEkGxBhPmEaVFfUn/ZDxsrS6ZqLnhbWAAxuR/k1mfDA==" />
+    </item>
+    <item>
+      <title>WhisperBar 1.19.2</title>
+      <link>https://github.com/kchromik/shoutflow-releases/releases/tag/v1.19.2</link>
+      <pubDate>Sun, 27 Sep 2026 10:47:55 +0000</pubDate>
+      <sparkle:version>66.1</sparkle:version>
+      <sparkle:shortVersionString>1.19.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.19.2/WhisperBar-1.19.2.dmg" length="21681811" type="application/octet-stream" sparkle:edSignature="aFLbJtR5t+NkWhjGwCPFcucVKSF0T6wtIh5LwriJh4QXEnKWrcHQhqNakA+vFmEXwsU8S1w/un2KPN0ehHVYAA==" />
     </item>
   </channel>
 </rss>
