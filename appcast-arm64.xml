@@ -37,5 +37,27 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.21.0/WhisperBar-1.21.0.dmg" length="35865831" type="application/octet-stream" sparkle:edSignature="SzhZOBDWpxHJGGJsnevmlBAG0CHPOxsSxJ6+q5XmTOla65jvDEDphDSkJhEMfztC/ji6qaqz93F3gV+ArBC7CA==" />
     </item>
+    <item>
+      <title>WhisperBar 1.22.0</title>
+      <link>https://github.com/kchromik/shoutflow-releases/releases/tag/v1.22.0</link>
+      <pubDate>Fri, 09 Oct 2026 23:41:23 +0000</pubDate>
+      <sparkle:version>71</sparkle:version>
+      <sparkle:shortVersionString>1.22.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description>&lt;h3&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Added single-key and multi-key shortcuts, with a preview and controls to confirm or discard changes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Improved&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Improved the reliability of Transform Selection, including browser text fields and email edits.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed an issue where Bluetooth headphone audio could become silent shortly after dictation ended.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.22.0/WhisperBar-1.22.0.dmg" length="35882757" type="application/octet-stream" sparkle:edSignature="3DaDwD94A+1JOUikko0XPvXG53+PKQbyZ4ZRScnx3bfjGsMSpVzJWV/Nl/pVypZd+LmJQHuwnibZTeOZDsaADQ==" />
+    </item>
   </channel>
 </rss>
