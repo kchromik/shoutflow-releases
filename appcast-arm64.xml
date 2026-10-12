@@ -59,5 +59,19 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.22.0/WhisperBar-1.22.0.dmg" length="35882757" type="application/octet-stream" sparkle:edSignature="3DaDwD94A+1JOUikko0XPvXG53+PKQbyZ4ZRScnx3bfjGsMSpVzJWV/Nl/pVypZd+LmJQHuwnibZTeOZDsaADQ==" />
     </item>
+    <item>
+      <title>WhisperBar 1.22.1</title>
+      <link>https://github.com/kchromik/shoutflow-releases/releases/tag/v1.22.1</link>
+      <pubDate>Mon, 12 Oct 2026 12:34:47 +0000</pubDate>
+      <sparkle:version>72</sparkle:version>
+      <sparkle:shortVersionString>1.22.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description>&lt;h3&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed an issue where quickly tapping the Fn key could immediately stop dictation.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.22.1/WhisperBar-1.22.1.dmg" length="35884422" type="application/octet-stream" sparkle:edSignature="acehVnc8FoGWy5r5HmGbshcfIEpYlUhU4HDhhOOVC0G/vD/ANesly4e5c7Uh+JZ+a3AA8v9dQaSu4bwNVYnMAg==" />
+    </item>
   </channel>
 </rss>
