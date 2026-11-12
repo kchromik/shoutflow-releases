@@ -73,5 +73,31 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.22.1/WhisperBar-1.22.1.dmg" length="35884422" type="application/octet-stream" sparkle:edSignature="acehVnc8FoGWy5r5HmGbshcfIEpYlUhU4HDhhOOVC0G/vD/ANesly4e5c7Uh+JZ+a3AA8v9dQaSu4bwNVYnMAg==" />
     </item>
+    <item>
+      <title>WhisperBar 1.23.0</title>
+      <link>https://github.com/kchromik/shoutflow-releases/releases/tag/v1.23.0</link>
+      <pubDate>Thu, 12 Nov 2026 09:29:59 +0000</pubDate>
+      <sparkle:version>73</sparkle:version>
+      <sparkle:shortVersionString>1.23.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description>&lt;h3&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Press Esc to cancel a running dictation, no matter which app is in front.&lt;/li&gt;
+  &lt;li&gt;When Enhance rewrites a dictation, the history keeps your original text so you can view and copy it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Improved&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Meeting notes have a clearly labelled Copy notes button that copies the complete notes, including headings and checklists.&lt;/li&gt;
+  &lt;li&gt;The last transcription in the menu bar now has a clearly labelled Copy button.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Meeting notes now stay with their own meeting: opening another meeting from the history no longer shows notes from a different one, and notes are kept after restarting the app.&lt;/li&gt;
+  &lt;li&gt;If the microphone stops delivering audio during dictation, WhisperBar now stops the recording, inserts what was captured and tells you, instead of appearing to keep recording.&lt;/li&gt;
+  &lt;li&gt;Dictations pasted into Parallels, VMware or remote desktop windows no longer insert the previous clipboard content.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.23.0/WhisperBar-1.23.0.dmg" length="35911192" type="application/octet-stream" sparkle:edSignature="IW9Zul9Z+5HpAf/RbjLZUxuh758WsVddK6WvlzNWFOVtY+6ED62KGEUpVvIGSAKbqgRAvMfE+z6aZEEnPzXnDw==" />
+    </item>
   </channel>
 </rss>
