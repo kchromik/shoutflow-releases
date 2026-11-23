@@ -99,5 +99,24 @@
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.23.0/WhisperBar-1.23.0.dmg" length="35911192" type="application/octet-stream" sparkle:edSignature="IW9Zul9Z+5HpAf/RbjLZUxuh758WsVddK6WvlzNWFOVtY+6ED62KGEUpVvIGSAKbqgRAvMfE+z6aZEEnPzXnDw==" />
     </item>
+    <item>
+      <title>WhisperBar 1.24.0</title>
+      <link>https://github.com/kchromik/shoutflow-releases/releases/tag/v1.24.0</link>
+      <pubDate>Mon, 23 Nov 2026 10:52:00 +0000</pubDate>
+      <sparkle:version>74</sparkle:version>
+      <sparkle:shortVersionString>1.24.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description>&lt;h3&gt;New&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;You can now turn off “Cancel recording with Escape” in Settings → Shortcuts. It stays enabled by default, and you can still cancel using the X button.&lt;/li&gt;
+  &lt;li&gt;Keep your Whisper, Parakeet, or Qwen transcription model in memory between dictations for a faster start on the next recording. Enable it in Settings → Dictation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixed a speaker recognition error that could stop live meeting transcripts. The live transcript now continues if speaker labels become unavailable.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kchromik/shoutflow-releases/releases/download/v1.24.0/WhisperBar-1.24.0.dmg" length="35948115" type="application/octet-stream" sparkle:edSignature="VbcXPkSTBLfvKJGgi5ism0OPBj9Me06LzbMscYBiGGsZ1GQu5AvjL6bmaiDMBhK5exmocb01In8k/cbKyDXICw==" />
+    </item>
   </channel>
 </rss>
